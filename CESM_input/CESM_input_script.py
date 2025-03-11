@@ -2,7 +2,7 @@ import xarray as xr
 import pandas as pd
 
 
-# This script was created with the following library verions
+# This script was created with the following library versions
 # xarray v. 2023.1.0
 # pandas v. 1.5.2
 
